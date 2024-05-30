@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Test01
 {
-    class ShowText
+    class SUM
     {
         static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            int x = 13 + 17;
+            Console.WriteLine(x);
         }
-
     }
 }

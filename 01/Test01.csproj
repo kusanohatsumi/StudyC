@@ -6,6 +6,7 @@
     <RootNamespace>_01</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Test01.Practice1_8</StartupObject>
   </PropertyGroup>
 
 </Project>

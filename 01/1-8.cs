@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace Test01
 {
-    class ShowText
+    class Practice1_8
     {
         static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            int x = 19;
+            int y = 23;
+            int z = x * y;
+            Console.WriteLine(z);
         }
-
     }
 }

@@ -5,13 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Test01
+
 {
-    class ShowText
+    class ShowNumber_2
     {
         static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            int x = 13;
+            int y = 17;
+            Console.WriteLine("x=" + x + ",y=" + y);
         }
-
     }
 }

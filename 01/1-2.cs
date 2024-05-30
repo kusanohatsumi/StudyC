@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Test01
 {
-    class ShowText
+    class ShowNumber
     {
         static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            int x = 11;
+            Console.WriteLine("x=" + x);
         }
-
     }
 }

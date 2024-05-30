@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hatsu\\Documents\\技術研修\\成果物\\StudyC\\01\\01.csproj",
-      "projectName": "01",
-      "projectPath": "C:\\Users\\hatsu\\Documents\\技術研修\\成果物\\StudyC\\01\\01.csproj",
+      "projectUniqueName": "C:\\Users\\hatsu\\Documents\\技術研修\\成果物\\StudyC\\01\\Test01.csproj",
+      "projectName": "Test01",
+      "projectPath": "C:\\Users\\hatsu\\Documents\\技術研修\\成果物\\StudyC\\01\\Test01.csproj",
       "packagesPath": "C:\\Users\\hatsu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hatsu\\Documents\\技術研修\\成果物\\StudyC\\01\\obj\\",
       "projectStyle": "PackageReference",
