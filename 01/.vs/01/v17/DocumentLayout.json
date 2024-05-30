@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|01.csproj|solutionrelative:1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1-1.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-1.cs",
+              "RelativeDocumentMoniker": "1-1.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-1.cs",
+              "RelativeToolTip": "1-1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:15:58.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
