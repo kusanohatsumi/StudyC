@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:1-8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:1-12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:1-5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:1-11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|01.csproj|solutionrelative:1-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:1-10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\test01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:test01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\01\\1-9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B4F66D-B779-490E-AF37-76B55858906B}|Test01.csproj|solutionrelative:1-9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "1-8.cs",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-8.cs",
-              "RelativeDocumentMoniker": "1-8.cs",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-8.cs",
-              "RelativeToolTip": "1-8.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:57:28.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Test01",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\Test01.csproj",
-              "RelativeDocumentMoniker": "Test01.csproj",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\Test01.csproj",
-              "RelativeToolTip": "Test01.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-30T07:41:21.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "1-5.cs",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-5.cs",
-              "RelativeDocumentMoniker": "1-5.cs",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-5.cs",
-              "RelativeToolTip": "1-5.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "1-11.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-11.cs",
+              "RelativeDocumentMoniker": "1-11.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-11.cs",
+              "RelativeToolTip": "1-11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:43:40.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "1-4.cs",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-4.cs",
-              "RelativeDocumentMoniker": "1-4.cs",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-4.cs",
-              "RelativeToolTip": "1-4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:36:38.97Z",
+              "WhenOpened": "2024-05-31T02:55:08.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1-12.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-12.cs",
+              "RelativeDocumentMoniker": "1-12.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-12.cs",
+              "RelativeToolTip": "1-12.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:55:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1-10.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-10.cs",
+              "RelativeDocumentMoniker": "1-10.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-10.cs",
+              "RelativeToolTip": "1-10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:54:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1-9.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-9.cs",
+              "RelativeDocumentMoniker": "1-9.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\1-9.cs",
+              "RelativeToolTip": "1-9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:49:45.144Z",
+              "EditorCaption": ""
             }
           ]
         }
