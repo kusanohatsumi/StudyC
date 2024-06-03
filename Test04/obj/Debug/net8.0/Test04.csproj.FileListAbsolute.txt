@@ -1,0 +1,15 @@
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\bin\Debug\net8.0\Test04.exe
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\bin\Debug\net8.0\Test04.deps.json
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\bin\Debug\net8.0\Test04.runtimeconfig.json
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\bin\Debug\net8.0\Test04.dll
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\bin\Debug\net8.0\Test04.pdb
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.AssemblyInfoInputs.cache
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.AssemblyInfo.cs
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.csproj.CoreCompileInputs.cache
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.sourcelink.json
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.dll
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\refint\Test04.dll
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.pdb
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\Test04.genruntimeconfig.cache
+C:\Users\hatsu\Documents\技術研修\成果物\StudyC\Test04\obj\Debug\net8.0\ref\Test04.dll

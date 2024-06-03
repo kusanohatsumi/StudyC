@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7681F3C-57A1-4023-BA6E-1C63C81BC15F}|..\\Test03\\Test03.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\test03\\file03_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9022CDF8-E595-4FDC-8289-3D2EC5913D44}|..\\Test04\\Test04.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\test04\\file04_21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7681F3C-57A1-4023-BA6E-1C63C81BC15F}|..\\Test03\\Test03.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\test03\\file03_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9022CDF8-E595-4FDC-8289-3D2EC5913D44}|..\\Test04\\Test04.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\test04\\file04_20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7681F3C-57A1-4023-BA6E-1C63C81BC15F}|..\\Test03\\Test03.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\test03\\file03_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9022CDF8-E595-4FDC-8289-3D2EC5913D44}|..\\Test04\\Test04.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\studyc\\test04\\test04.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,47 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test04",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test04\\Test04.csproj",
+              "RelativeDocumentMoniker": "..\\Test04\\Test04.csproj",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test04\\Test04.csproj",
+              "RelativeToolTip": "..\\Test04\\Test04.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T04:42:30.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "File03_06.cs",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test03\\File03_06.cs",
-              "RelativeDocumentMoniker": "..\\Test03\\File03_06.cs",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test03\\File03_06.cs",
-              "RelativeToolTip": "..\\Test03\\File03_06.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Title": "File04_21.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test04\\File04_21.cs",
+              "RelativeDocumentMoniker": "..\\Test04\\File04_21.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test04\\File04_21.cs",
+              "RelativeToolTip": "..\\Test04\\File04_21.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T07:52:17.126Z",
+              "WhenOpened": "2024-06-03T08:03:12.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "File03_05.cs",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test03\\File03_05.cs",
-              "RelativeDocumentMoniker": "..\\Test03\\File03_05.cs",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test03\\File03_05.cs",
-              "RelativeToolTip": "..\\Test03\\File03_05.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "File04_20.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test04\\File04_20.cs",
+              "RelativeDocumentMoniker": "..\\Test04\\File04_20.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test04\\File04_20.cs",
+              "RelativeToolTip": "..\\Test04\\File04_20.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T07:52:14.824Z"
+              "WhenOpened": "2024-06-03T08:02:23.098Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "File03_04.cs",
-              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test03\\File03_04.cs",
-              "RelativeDocumentMoniker": "..\\Test03\\File03_04.cs",
-              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\\u6210\u679C\u7269\\StudyC\\Test03\\File03_04.cs",
-              "RelativeToolTip": "..\\Test03\\File03_04.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T07:52:12.342Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             }
           ]
         }
